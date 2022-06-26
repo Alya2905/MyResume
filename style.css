@@ -1,0 +1,25 @@
+body {
+    background-color: #5BFEFC;
+    font-family: 'Nunito', sans-serif;
+}
+
+.teal {
+    background-color: #5BFEFC; 
+}
+
+.contacts {
+    text-decoration: none;
+    color: black;
+}
+
+.contacts:hover {
+    color: white;
+}
+
+.push {
+    text-decoration: none;
+    color: black;  
+}
+.push:hover {
+    color:white;
+}
